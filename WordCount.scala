@@ -65,5 +65,3 @@ object Wordcount{
 
 }
 
-
-./bin/hdfs dfs -get output ./output
